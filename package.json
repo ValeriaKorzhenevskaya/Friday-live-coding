@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ValeriaKorzhenevskaya/Friday-live-coding/issues"
   },
-  "homepage": "https://github.com/ValeriaKorzhenevskaya/Friday-live-coding#readme"
+  "homepage": "https://github.com/ValeriaKorzhenevskaya/Friday-live-coding#readme",
+  "dependencies": {
+    "normalize-scss": "^7.0.1"
+  }
 }
